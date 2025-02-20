@@ -1,0 +1,24 @@
+# Build and Debug files
+bin/
+obj/
+
+# User-specific settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET-specific
+*.dll
+*.pdb
+*.exe
+*.log
+*.cache
+*.config
+*.db
+
+# Maui-specific
+platforms/
+Resources/
